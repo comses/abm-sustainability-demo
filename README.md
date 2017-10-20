@@ -25,7 +25,7 @@ Who will be first?
 
 Emily was here!
 
-Chris' line.
+Chris' -- what happens when I change somebody elses statement? Does it just overwrite?
 
 Marco is here
 
