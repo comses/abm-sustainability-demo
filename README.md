@@ -21,4 +21,12 @@ And another.
 
 And some more.
 
+<<<<<<< HEAD
 Emily was here!
+=======
+<<<<<<< HEAD
+Chris' line.
+=======
+Marco is here
+>>>>>>> cf3fc5d9826b29c984fbd379a52b9353c2bf1bed
+>>>>>>> e93cf52ad22caf357941ffa7d3b0137c1969d4a3
